@@ -11,7 +11,7 @@ title: CVEs
 
 | CVE ID         | Affected Devices | Involved UUIs  | Severity* | Vendor Advisory<sup>$</sup>                                  |
 |----------------|------------------|----------------|------------|---------------------------------------------------------------|
-| CVE-2020-12488 | Vivo (G10)       | Serial         | 5.5 MEDIUM | [[**Link**](https://www.vivo.com/en/support/security-advisory-detail?id=5){:target="_blank"}, [**Snapshot**]({{ site.baseurl }}/snapshots/vendor-advisory/va-2020-12488.png){:target="_blank"}] |
+| CVE-2020-12489 | Vivo (G10)       | Serial         | 5.5 MEDIUM | [[**Link**](https://www.vivo.com/en/support/security-advisory-detail?id=5){:target="_blank"}, [**Snapshot**]({{ site.baseurl }}/snapshots/vendor-advisory/va-2020-12488.png){:target="_blank"}] |
 | CVE-2020-14103 | Xiaomi (H10, H11) | Serial         | 5.5 MEDIUM | [[**Link**](https://trust.mi.com/misrc/bulletins/advisory?cveId=41){:target="_blank"}, [**Snapshot**]({{ site.baseurl }}/snapshots/vendor-advisory/va-2020-14103.png){:target="_blank"}]        |
 | CVE-2020-14105 | Xiaomi (H10, H11) | Misc UUI (sno) | 5.5 MEDIUM | [[**Link**](https://trust.mi.com/misrc/bulletins/advisory?cveId=48){:target="_blank"}, [**Snapshot**]({{ site.baseurl }}/snapshots/vendor-advisory/va-2020-14105.png){:target="_blank"}]        |
 | CVE-2021-0428  | Pixel (AOSP 10)  | ICCID          | 5.5 MEDIUM | [[**Link**](https://source.android.com/docs/security/bulletin/2021-09-01){:target="_blank"}, [**Snapshot**]({{ site.baseurl }}/snapshots/vendor-advisory/av-2021-0428.png){:target="_blank"}]  |
