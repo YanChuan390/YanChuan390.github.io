@@ -4,7 +4,7 @@ navbar_name: "Chuan Yan (颜川)"
 
 positions:
 - logo: /assets/images/badges/UQ.png  # Logo is optional
-  name: Ph.D student in University of Queensland
+  name: Ph.D. student in University of Queensland
 # - name: Position 2 without logo
 
 
@@ -21,8 +21,7 @@ gscholar: your_google_scholar_id
 
 short_bio: >-
   <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    I’m a third-year Ph.D. student at the School of Electrical Engineering and Computer Science, the University of Queensland, mentored by <a href="https://baigd.github.io/">A/Prof. Guangdong Bai</a>. 
   </p>
   <p>
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
