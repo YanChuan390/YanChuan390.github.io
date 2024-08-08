@@ -4,8 +4,8 @@ navbar_name: "Chuan Yan (颜川)"
 
 positions:
 - logo: /assets/images/badges/PKU_red.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+  name: Ph.D student in University of Queensland
+# - name: Position 2 without logo
 
 
 email: "your@email.com"
