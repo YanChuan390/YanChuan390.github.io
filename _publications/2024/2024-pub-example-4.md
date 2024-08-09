@@ -9,7 +9,7 @@ pub:            "ICECCS '24: 28th International Conference on Engineering of Com
 pub_date:       "2024"
 
 abstract: >-
-In the digital era, business collaboration platforms have become pivotal in facilitating seamless remote work and virtual team interactions. These platforms, typified by Google Workspace, offer an integrated suite of tools~(such as Google Docs, Slides, and Calendar) that significantly enhance business operations. They often extend their functionality through the integration of third-party applications, known as “add-ons”. Google Workspace exemplifies this trend, blending traditional business solutions with advanced, add-on-driven capabilities. 
+  In the digital era, business collaboration platforms have become pivotal in facilitating seamless remote work and virtual team interactions. These platforms, typified by Google Workspace, offer an integrated suite of tools~(such as Google Docs, Slides, and Calendar) that significantly enhance business operations. They often extend their functionality through the integration of third-party applications, known as “add-ons”. Google Workspace exemplifies this trend, blending traditional business solutions with advanced, add-on-driven capabilities. 
 cover:          /assets/images/covers/icse'24.jpg
 authors:
   - Fuman Xie
