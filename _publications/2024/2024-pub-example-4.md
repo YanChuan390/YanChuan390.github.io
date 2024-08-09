@@ -2,7 +2,7 @@
 title:          "Analyzing Excessive Permission Requests in Google Workspace Add-ons"
 date:           2024-03-16 00:01:00 +0800
 selected:       false
-pub:            "ICECCS '24: 28th International Conference on Engineering of Complex Computer Systems"
+pub:            "<strong><em>ICECCS '24: 28th International Conference on Engineering of Complex Computer Systems</em></strong>"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
