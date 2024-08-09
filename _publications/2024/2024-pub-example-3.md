@@ -10,7 +10,7 @@ pub:            "ICSE '24: Proceedings of the IEEE/ACM 46th International Confer
 pub_date:       "2024"
 
 abstract: >-
-  Photo by Pineapple Supply Co. on Unsplash. Massa ultricies mi quis hendrerit dolor magna. Arcu non odio euismod lacinia at quis risus sed. Et tortor at risus viverra. Enim neque volutpat ac tincidunt. Dictum varius duis at consectetur lorem donec.
+  Virtual personal assistants (VPA) services encompass a large number of third-party applications (or apps) to enrich their functionalities. These apps have been well examined to scrutinize their data collection behaviors against their declared privacy policies.
 cover:          /assets/images/covers/icse'24.jpg
 authors:
   - Fuman Xie
