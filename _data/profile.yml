@@ -24,7 +24,7 @@ short_bio: >-
     I’m a third-year Ph.D. student at the School of Electrical Engineering and Computer Science, the University of Queensland, mentored by <a href="https://baigd.github.io/">A/Prof. Guangdong Bai</a>. 
   </p>
   <p>
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+    My research focuses on LLM security, VPA, Android, VR privacy compliance
   </p>
 
 portrait_url: /assets/images/photos/me.jpeg
@@ -37,11 +37,11 @@ portrait_caption: >-
 #   position: B.S. in Computer Science
 #   date: Sep. 2017 - Jul. 2021
 
-# # experience:
-# # - name: Peking University
-# #   logo: /assets/images/badges/PKU_red.png
-# #   position: Research Intern
-# #   date: Sep. 2019 - Jul. 2021
+Research Interests:
+- name: Peking University
+  logo: /assets/images/badges/PKU_red.png
+  position: Research Intern
+  date: Sep. 2019 - Jul. 2021
 
 
 awards:
