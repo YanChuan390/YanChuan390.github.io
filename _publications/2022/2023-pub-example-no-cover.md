@@ -1,22 +1,27 @@
 ---
-title:          "aa"
-date:           2022-03-1 00:01:00 +0800
+title:          "Scrutinizing privacy policy compliance of virtual personal assistant apps"
+date:           2022-10-10 00:01:00 +0800
 selected:       false
-pub:            "International Conference on Learning Representations (ICLR)"
+pub:            "Proceedings of the 37th IEEE/ACM international conference on automated software engineering"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2023"
+pub_date:       "2022"
 
 abstract: >-
-  Massa ultricies mi quis hendrerit dolor magna. Arcu non odio euismod lacinia at quis risus sed. Et tortor at risus viverra. Enim neque volutpat ac tincidunt. Dictum varius duis at consectetur lorem donec.
-# cover:          /assets/images/covers/cover3.jpg
+  A large number of functionality-rich and easily accessible applications have become popular among various virtual personal assistant (VPA) services such as Amazon Alexa. VPA applications (or VPA apps for short) are accompanied by a privacy policy document that informs users of their data handling practices. These documents are usually lengthy and complex for users to comprehend, and developers may intentionally or unintentionally fail to comply with them. In this work, we conduct the first systematic study on the privacy policy compliance issue of VPA apps. We develop Skipper, which targets Amazon Alexa skills. It automatically depicts the skill into the declared privacy profile by analyzing their privacy policy documents with Natural Language Processing (NLP) and machine learning techniques, and derives the behavioral privacy profile of the skill through a black-box testing. We conduct a large-scale analysis on all skills listed on Alexa store, and find that a large number of skills suffer from the privacy policy noncompliance issues.
+cover:          /assets/images/covers/ase'22.jpg
 authors:
-  - Your Name
-  - James Wang
-  - Some Other Name
-  - John Doe
+  - Fuman Xie
+  - Yanjun Zhang
+  - <strong>Chuan Yan</strong>
+  - Suwan Li
+  - Lei Bu
+  - Kai Chen
+  - Zi Huang
+  - Guangdong Bai
 links:
-  Code: https://github.com/luost26/academic-homepage
-  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  # Code: https://github.com/luost26/academic-homepage
+  # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  Paper: https://dl.acm.org/doi/pdf/10.1145/3551349.3560416
 ---
