@@ -10,7 +10,7 @@ pub:            "ICSE '24: Proceedings of the IEEE/ACM 46th International Confer
 pub_date:       "2024"
 
 abstract: >-
-  Virtual personal assistants (VPA) services encompass a large number of third-party applications (or apps) to enrich their functionalities. These apps have been well examined to scrutinize their data collection behaviors against their declared privacy policies.
+  Virtual personal assistants (VPA) services encompass a large number of third-party applications (or apps) to enrich their functionalities. These apps have been well examined to scrutinize their data collection behaviors against their declared privacy policies. Nonetheless, it is often overlooked that most users tend to ignore privacy policies at the installation time.
 cover:          /assets/images/covers/icse'24.jpg
 authors:
   - Fuman Xie
