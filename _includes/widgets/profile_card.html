@@ -1,13 +1,13 @@
 <style>
     /* 设置图片的初始样式 */
     .zoom-image {
-        width: 300px; /* 初始图片宽度，可根据需要调整 */
+        width: 200px; /* 初始图片宽度，可根据需要调整 */
         transition: transform 0.3s ease-in-out; /* 平滑的过渡效果 */
     }
 
     /* 鼠标悬停时的样式 */
     .zoom-image:hover {
-        transform: scale(1.2); /* 将图片放大1.2倍 */
+        transform: scale(1.4); /* 将图片放大1.2倍 */
     }
 </style>
 
@@ -56,7 +56,7 @@
                 <div class="row">
                     <div class="col">
                         <a class="pr-3 no-break" href="mailto:{{ site.data.profile.email | encode_email }}">
-                            <i class="fas fa-at"></i> <span class="email-text">{{ site.data.profile.email | replace: "@", "(at)" }}</span>
+                            <i class="fas fa-at"></i> <span class="email-text">{{ site.data.profile.email | replace: "@", "@" }}</span>
                         </a>
 
                         {% if site.data.profile.gscholar %}
