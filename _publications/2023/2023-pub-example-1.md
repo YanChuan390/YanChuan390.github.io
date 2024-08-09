@@ -1,7 +1,7 @@
 ---
 title:          "On the quality of privacy policy documents of virtual personal assistant applications"
 date:           2023-08-04 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "The 24th Privacy Enhancing Technologies Symposium"
 pub_date:       "2024"
 abstract: >-
