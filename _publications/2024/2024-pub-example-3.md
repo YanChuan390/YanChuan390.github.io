@@ -2,10 +2,10 @@
 title:          "Are Your Requests Your True Needs? Checking Excessive Data Collection in VPA App"
 date:           2024-04-12 00:01:00 +0800
 selected:       true
-pub:            "International Conference on Machine Learning (ICML)"
+pub:            "ICSE '24: Proceedings of the IEEE/ACM 46th International Conference on Software Engineering"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2024"
 
 abstract: >-
