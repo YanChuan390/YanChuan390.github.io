@@ -45,7 +45,7 @@ abstract: >-
   findings should especially raise an alert to OpenAI and third-party
   developers to collaboratively maintain the security and privacy
   compliance of this emerging ecosystem.
-cover:          /assets/images/covers/fse'24.jpg
+cover:          /assets/images/covers/ase'24.jpg
 authors:
   - <strong>Chuan Yan</strong>
   - Mark Huasong Meng
