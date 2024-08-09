@@ -1,3 +1,16 @@
+<style>
+    /* 设置图片的初始样式 */
+    .zoom-image {
+        width: 300px; /* 初始图片宽度，可根据需要调整 */
+        transition: transform 0.3s ease-in-out; /* 平滑的过渡效果 */
+    }
+
+    /* 鼠标悬停时的样式 */
+    .zoom-image:hover {
+        transform: scale(1.2); /* 将图片放大1.2倍 */
+    }
+</style>
+
 <div class="row">
     <div class="col">
         <div class="card border-0 shadow-sm bg-white">
@@ -27,7 +40,7 @@
                         <figure class="figure">
                             <img 
                                 src="{{ site.data.profile.portrait_url | relative_url }}" 
-                                class="figure-img img-fluid img-thumbnail" 
+                                class="figure-img img-fluid img-thumbnail zoom-image" 
                                 style="height: 200px;"
                                 data-toggle="tooltip" 
                                 data-placement="top" 
