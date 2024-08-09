@@ -1,7 +1,7 @@
 ---
 title:          "Are Your Requests Your True Needs? Checking Excessive Data Collection in VPA App"
 date:           2024-04-12 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "ICSE '24: Proceedings of the IEEE/ACM 46th International Conference on Software Engineering
 "
 # pub_pre:        "Submitted to "
