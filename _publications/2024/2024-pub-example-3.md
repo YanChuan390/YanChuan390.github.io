@@ -10,13 +10,16 @@ pub_date:       "2024"
 
 abstract: >-
   Photo by Pineapple Supply Co. on Unsplash. Massa ultricies mi quis hendrerit dolor magna. Arcu non odio euismod lacinia at quis risus sed. Et tortor at risus viverra. Enim neque volutpat ac tincidunt. Dictum varius duis at consectetur lorem donec.
-cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/icse'24.jpg
 authors:
-  - Your Name
-  - James Wang
-  - Some Other Name
-  - John Doe
+  - Fuman Xie
+  - <strong>Chuan Yan</strong>
+  - Mark Huasong Meng
+  - Shaoming Teng
+  - Yanjun Zhang
+  - Guangdong Bai
 links:
-  Code: https://github.com/luost26/academic-homepage
-  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  # Code: https://github.com/luost26/academic-homepage
+  # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  paper: https://dl.acm.org/doi/pdf/10.1145/3597503.3639107
 ---
