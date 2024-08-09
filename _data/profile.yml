@@ -24,7 +24,7 @@ short_bio: >-
     I’m a third-year Ph.D. student at the School of Electrical Engineering and Computer Science, the University of Queensland, mentored by <a href="https://baigd.github.io/">A/Prof. Guangdong Bai</a>. 
   </p>
   <p>
-    My research focuses on LLM security, VPA, Android, VR privacy compliance
+    My research focuses on detecting security and privacy issues in the system and third-party application ecosystem based on privacy documentation.
   </p>
 
 portrait_url: /assets/images/photos/me.jpeg
@@ -38,8 +38,10 @@ portrait_caption: >-
 #   date: Sep. 2017 - Jul. 2021
 
 experience:
-- name: LLM security
-- name: Android privacy compliance
+- name: LLM deployment security
+- name: Android testing
+- name: VR game engine reverse engineering
+- name: NLP analysis
   # logo: /assets/images/badges/PKU_red.png
   # position: Research Intern
   # date: Sep. 2019 - Jul. 2021
