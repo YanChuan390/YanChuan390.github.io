@@ -9,14 +9,7 @@ pub:            "<span style='display: inline-block; padding: 2px 6px; font-size
 pub_date:       "2024"
 
 abstract: >-
-  We conduct the first comprehensive study of the
-  ChatGPT app ecosystem, aiming to unveil its landscape to our
-  research community. Our study focuses on the distribution and
-  deployment models in the integration of LLMs and third-party
-  apps, and assesses their security and privacy implications. We in-
-  vestigate the runtime execution mechanism of ChatGPT apps and
-  accordingly propose a three-layer security assessment model from
-  the perspectives of users, app developers, and store operators.
+  We conduct the first systematic study on the quality of privacy policies in the VPA app domain. Based on our review of literature and documents from standard working groups, we identify four metrics that enable the quality of the privacy policy to become measurable, including timeliness, availability, completeness and readability. We then develop QuPer, which extracts the meta features (e.g., update history) and linguistic features (e.g., sentence semantics) from privacy policies, and assesses their quality. Our analysis reveals that the status of the quality of privacy policies in the VPA app domain is concerning. We conduct the first systematic study on the quality of privacy policies in the VPA app domain. Based on our review of literature and documents from standard working groups, we identify four metrics that enable the quality of the privacy policy to become measurable, including timeliness, availability, completeness and readability. We then develop QuPer, which extracts the meta features (e.g., update history) and linguistic features (e.g., sentence semantics) from privacy policies, and assesses their quality. Our analysis reveals that the status of the quality of privacy policies in the VPA app domain is concerning.
 cover:          /assets/images/covers/ase'24.jpg
 authors:
   - <strong>Chuan Yan</strong>
