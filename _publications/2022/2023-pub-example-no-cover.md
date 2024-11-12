@@ -2,7 +2,7 @@
 title:          "Scrutinizing privacy policy compliance of virtual personal assistant apps"
 date:           2022-10-10 00:01:00 +0800
 selected:       false
-pub:            "<strong><em>Proceedings of the 37th IEEE/ACM international conference on automated software engineering</em></strong>"
+pub:            "<span style='display: inline-block; padding: 2px 6px; font-size: 12px; font-weight: bold; color: white; background-color: #4CAF50; border-radius: 4px;'>CCF-A</span> <span style='display: inline-block; padding: 2px 6px; font-size: 12px; font-weight: bold; color: white; background-color: #4CAF50; border-radius: 4px;'>CORE-A*</span> <strong><em>Proceedings of the 37th IEEE/ACM international conference on automated software engineering</em></strong>"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
