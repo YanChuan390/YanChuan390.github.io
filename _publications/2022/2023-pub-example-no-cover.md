@@ -9,7 +9,7 @@ pub:            "<strong><em>Proceedings of the 37th IEEE/ACM international conf
 pub_date:       "2022"
 
 abstract: >-
-  A large number of functionality-rich and easily accessible applications have become popular among various virtual personal assistant (VPA) services such as Amazon Alexa. VPA applications (or VPA apps for short) are accompanied by a privacy policy document that informs users of their data handling practices. These documents are usually lengthy and complex for users to comprehend, and developers may intentionally or unintentionally fail to comply with them. In this work, we conduct the first systematic study on the privacy policy compliance issue of VPA apps. We develop Skipper, which targets Amazon Alexa skills. It automatically depicts the skill into the declared privacy profile by analyzing their privacy policy documents with Natural Language Processing (NLP) and machine learning techniques, and derives the behavioral privacy profile of the skill through a black-box testing. We conduct a large-scale analysis on all skills listed on Alexa store, and find that a large number of skills suffer from the privacy policy noncompliance issues.
+   We conduct the first systematic study on the privacy policy compliance issue of VPA apps. We develop Skipper, which targets Amazon Alexa skills. It automatically depicts the skill into the declared privacy profile by analyzing their privacy policy documents with Natural Language Processing (NLP) and machine learning techniques, and derives the behavioral privacy profile of the skill through a black-box testing. We conduct a large-scale analysis on all skills listed on Alexa store, and find that a large number of skills suffer from the privacy policy noncompliance issues.
 cover:          /assets/images/covers/ase'22.jpg 
 authors:
   - Fuman Xie
@@ -21,7 +21,7 @@ authors:
   - Zi Huang
   - Guangdong Bai
 links:
-  # Code: https://github.com/luost26/academic-homepage
+  Code: https://github.com/UQ-Trust-Lab/SKIPPER
   # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
   Paper: https://dl.acm.org/doi/pdf/10.1145/3551349.3560416
 ---
