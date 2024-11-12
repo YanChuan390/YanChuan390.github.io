@@ -17,14 +17,16 @@ abstract: >-
   vestigate the runtime execution mechanism of ChatGPT apps and
   accordingly propose a three-layer security assessment model from
   the perspectives of users, app developers, and store operators.
-cover:          /assets/images/covers/pets'24.jpg
+cover:          /assets/images/covers/ase'24.jpg
 authors:
   - <strong>Chuan Yan</strong>
-- Fuman Xie
-- Mark Huasong Meng
-- Yanjun Zhang
-- Guangdong Bai
+  - Mark Huasong Meng
+  - Liuhuo Wan
+  - Tian Yang Ooi
+  - Ruomai Ren
+  - Guangdong Bai
 links:
-  Code: https://github.com/UQ-Trust-Lab/Quper
-  Paper: https://petsymposium.org/popets/2024/popets-2024-0028.pdf
+  Code: https://github.com/UQ-Trust-Lab/GPT-Plugin-store
+  # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  Paper: https://dl.acm.org/doi/abs/10.1145/3691620.3695510
 ---
