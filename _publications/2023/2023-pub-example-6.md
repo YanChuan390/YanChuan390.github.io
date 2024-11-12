@@ -13,10 +13,9 @@ abstract: >-
 cover:          /assets/images/covers/pets'24.jpg
 authors:
   - <strong>Chuan Yan</strong>
+  - Fuman Xie
   - Mark Huasong Meng
-  - Liuhuo Wan
-  - Tian Yang Ooi
-  - Ruomai Ren
+  - Yanjun Zhang
   - Guangdong Bai
 links:
   Code: https://github.com/UQ-Trust-Lab/GPT-Plugin-store
