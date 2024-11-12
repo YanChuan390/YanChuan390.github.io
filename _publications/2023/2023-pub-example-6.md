@@ -18,7 +18,7 @@ authors:
   - Yanjun Zhang
   - Guangdong Bai
 links:
-  Code: https://github.com/UQ-Trust-Lab/GPT-Plugin-store
+  Code: https://github.com/UQ-Trust-Lab/Quper
   # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
-  Paper: https://dl.acm.org/doi/abs/10.1145/3691620.3695510
+  Paper: https://petsymposium.org/popets/2024/popets-2024-0028.pdf
 ---
