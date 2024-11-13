@@ -21,10 +21,10 @@ abstract: >-
 cover:          /assets/images/covers/ase'24.jpg
 authors:
   - <strong>Chuan Yan</strong>
+  - Ruomai Ren
   - Mark Huasong Meng
   - Liuhuo Wan
   - Tian Yang Ooi
-  - Ruomai Ren
   - Guangdong Bai
 links:
   Code: https://github.com/UQ-Trust-Lab/GPT-Plugin-store
