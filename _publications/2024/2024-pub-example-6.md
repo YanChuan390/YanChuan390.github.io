@@ -3,7 +3,7 @@ title:          "Exploring ChatGPT App Ecosystem: Distribution, Deployment
 and Security"
 date:           2024-09-12 00:01:00 +0800
 selected:       true
-pub:            "<span style='display: inline-block; padding: 2px 6px; font-size: 12px; font-weight: bold; color: white; background-color: #4CAF50; border-radius: 4px;'>CCF-A</span> <span style='display: inline-block; padding: 2px 6px; font-size: 12px; font-weight: bold; color: white; background-color: #4CAF50; border-radius: 4px;'>CORE-A*</span> <strong><em>ASE'24: The 39th IEEE/ACM International Conference on Automated Software Engineering</em></strong>"
+pub:            "<span style='display: inline-block; padding: 2px 6px; font-size: 12px; font-weight: bold; color: white; background-color: #4CAF50; border-radius: 4px;'>CCF-A</span> <span style='display: inline-block; padding: 2px 6px; font-size: 12px; font-weight: bold; color: white; background-color: #4CAF50; border-radius: 4px;'>CORE-A*</span> <span style='display: inline-block; padding: 2px 6px; font-size: 12px; font-weight: bold; color: white; background-color: #FF5733; border-radius: 4px;'>Distinguished Paper</span> <span>🏆</span> <strong><em>ASE'24: The 39th IEEE/ACM International Conference on Automated Software Engineering</em></strong>"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
