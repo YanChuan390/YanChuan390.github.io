@@ -8,8 +8,8 @@ pub:            "<span style='display: inline-block; padding: 2px 6px; font-size
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2024"
 
-abstract: >-
-   We conduct the first systematic study on the consistency between the operational behaviors of the OS at runtime and the officially disclosed DPCs. We propose DopCheck, an automatic DPC-driven testing framework equipped with a large language model (LLM) pipeline. It features a serial of analysis to extract the ontology from the privacy change documents written in natural language, and then harnesses the few-shot capability of LLMs to construct test cases for the detection of DPC-compliance issues in OS implementations. 
+# abstract: >-
+#    We conduct the first systematic study on the consistency between the operational behaviors of the OS at runtime and the officially disclosed DPCs. We propose DopCheck, an automatic DPC-driven testing framework equipped with a large language model (LLM) pipeline. It features a serial of analysis to extract the ontology from the privacy change documents written in natural language, and then harnesses the few-shot capability of LLMs to construct test cases for the detection of DPC-compliance issues in OS implementations. 
 cover:          /assets/images/covers/fse'24.jpg
 authors:
   - <strong>Chuan Yan</strong>

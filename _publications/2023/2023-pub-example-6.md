@@ -8,8 +8,8 @@ pub:            "<span style='display: inline-block; padding: 2px 6px; font-size
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2024"
 
-abstract: >-
-  We conduct the first systematic study on the quality of privacy policies in the VPA app domain. Based on our review of literature and documents from standard working groups, we identify four metrics that enable the quality of the privacy policy to become measurable, including timeliness, availability, completeness and readability. We then develop QuPer, which extracts the meta features (e.g., update history) and linguistic features (e.g., sentence semantics) from privacy policies, and assesses their quality. Our analysis reveals that the status of the quality of privacy policies in the VPA app domain is concerning.
+# abstract: >-
+#   We conduct the first systematic study on the quality of privacy policies in the VPA app domain. Based on our review of literature and documents from standard working groups, we identify four metrics that enable the quality of the privacy policy to become measurable, including timeliness, availability, completeness and readability. We then develop QuPer, which extracts the meta features (e.g., update history) and linguistic features (e.g., sentence semantics) from privacy policies, and assesses their quality. Our analysis reveals that the status of the quality of privacy policies in the VPA app domain is concerning.
 cover:          /assets/images/covers/pets'24.jpg
 authors:
   - <strong>Chuan Yan</strong>

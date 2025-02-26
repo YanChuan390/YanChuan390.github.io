@@ -9,15 +9,15 @@ pub:            "<span style='display: inline-block; padding: 2px 6px; font-size
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2024"
 
-abstract: >-
-  We conduct the first comprehensive study of the
-  ChatGPT app ecosystem, aiming to unveil its landscape to our
-  research community. Our study focuses on the distribution and
-  deployment models in the integration of LLMs and third-party
-  apps, and assesses their security and privacy implications. We in-
-  vestigate the runtime execution mechanism of ChatGPT apps and
-  accordingly propose a three-layer security assessment model from
-  the perspectives of users, app developers, and store operators.
+# abstract: >-
+#   We conduct the first comprehensive study of the
+#   ChatGPT app ecosystem, aiming to unveil its landscape to our
+#   research community. Our study focuses on the distribution and
+#   deployment models in the integration of LLMs and third-party
+#   apps, and assesses their security and privacy implications. We in-
+#   vestigate the runtime execution mechanism of ChatGPT apps and
+#   accordingly propose a three-layer security assessment model from
+#   the perspectives of users, app developers, and store operators.
 cover:          /assets/images/covers/ase'24.jpg
 authors:
   - <strong>Chuan Yan</strong>

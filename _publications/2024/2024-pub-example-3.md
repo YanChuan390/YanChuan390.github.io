@@ -9,8 +9,8 @@ pub:            "<span style='display: inline-block; padding: 2px 6px; font-size
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2024"
 
-abstract: >-
-  We present Pico, a privacy inconsistency detector, which checks the VPA app's privacy compliance by analyzing (in)consistency between data requested and data essential for its functionality. Pico understands the app's functionality topics from its publicly available textual data, and leverages advanced GPT-based language models to address domain-specific challenges. 
+# abstract: >-
+#   We present Pico, a privacy inconsistency detector, which checks the VPA app's privacy compliance by analyzing (in)consistency between data requested and data essential for its functionality. Pico understands the app's functionality topics from its publicly available textual data, and leverages advanced GPT-based language models to address domain-specific challenges. 
 cover:          /assets/images/covers/icse'24.jpg
 authors:
   - Fuman Xie

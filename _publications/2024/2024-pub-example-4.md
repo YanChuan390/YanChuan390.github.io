@@ -8,8 +8,8 @@ pub:            "<span style='display: inline-block; padding: 2px 6px; font-size
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2024"
 
-abstract: >-
-  We propose an end-to-end approach to automatically detecting excessive permissions among add-ons. It advocates purpose limitation that the requested permissions of the add-on should be for its specific functionality and in compliance with the actual needs in fulfilling the functionality. Our approach utilizes a hybrid analysis to detect excessive permissions, including analysis of the add-on’s runtime behavior and source code, and state-of-the-art language processing techniques for textual artifact interpretation. This approach can serve the users, developers and store operators as an efficient and practical detection mechanism for excessive permissions.
+# abstract: >-
+#   We propose an end-to-end approach to automatically detecting excessive permissions among add-ons. It advocates purpose limitation that the requested permissions of the add-on should be for its specific functionality and in compliance with the actual needs in fulfilling the functionality. Our approach utilizes a hybrid analysis to detect excessive permissions, including analysis of the add-on’s runtime behavior and source code, and state-of-the-art language processing techniques for textual artifact interpretation. This approach can serve the users, developers and store operators as an efficient and practical detection mechanism for excessive permissions.
 cover:          /assets/images/covers/iceccs'24.jpg
 authors:
   - Liuhuo Wan
