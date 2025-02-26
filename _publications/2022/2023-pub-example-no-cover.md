@@ -8,8 +8,8 @@ pub:            "<span style='display: inline-block; padding: 2px 6px; font-size
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2022"
 
-abstract: >-
-   We conduct the first systematic study on the privacy policy compliance issue of VPA apps. We develop Skipper, which targets Amazon Alexa skills. It automatically depicts the skill into the declared privacy profile by analyzing their privacy policy documents with Natural Language Processing (NLP) and machine learning techniques, and derives the behavioral privacy profile of the skill through a black-box testing. We conduct a large-scale analysis on all skills listed on Alexa store, and find that a large number of skills suffer from the privacy policy noncompliance issues.
+# abstract: >-
+#    We conduct the first systematic study on the privacy policy compliance issue of VPA apps. We develop Skipper, which targets Amazon Alexa skills. It automatically depicts the skill into the declared privacy profile by analyzing their privacy policy documents with Natural Language Processing (NLP) and machine learning techniques, and derives the behavioral privacy profile of the skill through a black-box testing. We conduct a large-scale analysis on all skills listed on Alexa store, and find that a large number of skills suffer from the privacy policy noncompliance issues.
 cover:          /assets/images/covers/ase'22.jpg 
 authors:
   - Fuman Xie
