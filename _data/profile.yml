@@ -42,9 +42,9 @@ education:
   # date: Sep. 2017 - Jul. 2021
 
 experience:
-- name: Research Assistant, University of Queensland, Queensland, AU, 2021-2022
-# - name: Tutor, University of Queensland, Queensland, AU, Concurrency, Theory and Practice (CSSE7610), 2023
-# - name: Tutor, University of Queensland, Queensland, AU, Concurrency, Theory and Practice (CSSE7610), 2024
+- name: Research Assistant, University of Queensland, 2021-2022
+- name: Tutor, University of Queensland, Concurrency, Theory and Practice (CSSE7610), 2023
+- name: Tutor, University of Queensland, Concurrency, Theory and Practice (CSSE7610), 2024
 - name: 
   # logo: /assets/images/badges/PKU_red.png
   # position: Research Intern
