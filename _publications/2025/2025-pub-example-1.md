@@ -1,6 +1,6 @@
 ---
 title:          "WinSpy: Cross-window Side-channel Attacks on Android’s Multi-window Mode"
-date:           2024-01-13 00:01:00 +0800
+date:           2025-01-13 00:01:00 +0800
 selected:       false
 pub:            "<span style='display: inline-block; padding: 2px 6px; font-size: 12px; font-weight: bold; color: white; background-color: #4CAF50; border-radius: 4px;'>CCF-A</span> <span style='display: inline-block; padding: 2px 6px; font-size: 12px; font-weight: bold; color: white; background-color: #4CAF50; border-radius: 4px;'>CORE-A*</span> <strong><em>MobiCom'25:The 31st Annual International Conference on
 Mobile Computing and Networking</em></strong>"
