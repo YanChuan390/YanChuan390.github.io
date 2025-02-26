@@ -32,11 +32,11 @@ portrait_caption: >-
   HaHa.
 
 service:
-- name: Reviewer‘:’ TDSC, Neural Networks 
-- name: Sub-Reviewer‘:’ ASE’23, FSE’23/25, ICSE’23/25, NDSS’23/24, USENIX’23/24, CCS’23/24, WWW’25
-- name: Local Committee‘:’ ICFEM’23, ADMA’23
+- name: Reviewer   TDSC, Neural Networks 
+- name: Sub-Reviewer   ASE’23, FSE’23/25, ICSE’23/25, NDSS’23/24, USENIX’23/24, CCS’23/24, WWW’25
+- name: Local Committee   ICFEM’23, ADMA’23
 # - name: Program Committee 
-- name: Invited Speaker‘:’ "Exploring ChatGPT App Ecosystem Distribution, Deployment and Security”, TUM, Germany, Oct 2025
+- name: Invited Speaker   "Exploring ChatGPT App Ecosystem Distribution, Deployment and Security”, TUM, Germany, Oct 2025
   # logo: /assets/images/badges/PKU_red.png
   # position: B.S. in Computer Science
   # date: Sep. 2017 - Jul. 2021
