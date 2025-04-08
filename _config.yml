@@ -36,4 +36,4 @@ plugins:
 
 collections:
   - publications
-  - news
+  # - news
