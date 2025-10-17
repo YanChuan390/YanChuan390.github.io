@@ -2,8 +2,7 @@
 title:          "Tracking Third-Party Services in GPTs: Automation, Analysis, and Insights"
 date:           2025-04-1 00:01:00 +0800
 selected:       false
-pub:            "<span style='display: inline-block; padding: 2px 6px; font-size: 12px; font-weight: bold; color: white; background-color: #4CAF50; border-radius: 4px;'>CCF-A</span> <span style='display: inline-block; padding: 2px 6px; font-size: 12px; font-weight: bold; color: white; background-color: #4CAF50; border-radius: 4px;'>CORE-A*</span> <strong><em>MobiCom'25:The 31st Annual International Conference on
-Mobile Computing and Networking</em></strong>"
+pub:            "<span style='display: inline-block; padding: 2px 6px; font-size: 12px; font-weight: bold; color: white; background-color: #4CAF50; border-radius: 4px;'>CCF-A</span> <span style='display: inline-block; padding: 2px 6px; font-size: 12px; font-weight: bold; color: white; background-color: #4CAF50; border-radius: 4px;'>CORE-A*</span> <strong><em>The 1st International Workshop on LLM App Store Analysis</em></strong>"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
@@ -22,5 +21,5 @@ authors:
 links:
   Code: xxx
   # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
-  Paper: xxx
+  Paper: https://dl.acm.org/doi/abs/10.1145/3696630.3728711
 ---
