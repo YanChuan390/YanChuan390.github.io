@@ -24,7 +24,7 @@ short_bio: >-
     I’m a third-year Ph.D. student at the School of Electrical Engineering and Computer Science, the University of Queensland, mentored by <a href="https://baigd.github.io/">A/Prof. Guangdong Bai</a>. 
   </p>
   <p>
-    My research focuses on detecting issues in the system and third-party application ecosystem based on  documentation. My works have been published in leading conferences and journals, including FSE, ICSE, ASE, PETs etc.
+    My research focuses on detecting issues in the system and third-party application ecosystem based on  documentation. My works have been published in leading conferences and journals, including WWW, FSE, ICSE, ASE, PETs etc.
   </p>
 
 portrait_url: /assets/images/photos/me.jpeg
@@ -32,7 +32,7 @@ portrait_caption: >-
   HaHa.
 
 service:
-- name: Reviewer   TDSC, Neural Networks 
+- name: <strong>Reviewer</strong>   TDSC, Neural Networks 
 - name: Sub-Reviewer   ASE’23, FSE’23/25, ICSE’23/25, NDSS’23/24, USENIX’23/24, CCS’23/24, WWW’25
 - name: Local Committee   ICFEM’23, ADMA’23
 # - name: Program Committee 
