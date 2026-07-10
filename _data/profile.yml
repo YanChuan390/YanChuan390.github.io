@@ -3,8 +3,8 @@ secondary_name: ""
 navbar_name: "Chuan Yan (颜川)"
 
 positions:
-- logo: /assets/images/badges/UQ.png  # Logo is optional
-  name: Ph.D. student in University of Queensland
+- logo: /assets/images/badges/cityu.jpeg  # Logo is optional
+  name: Research Fellow
 # - name: Position 2 without logo
 
 
@@ -21,7 +21,7 @@ gscholar: https://scholar.google.com/citations?hl=zh-CN&user=BIOPdoYAAAAJ
 
 short_bio: >-
   <p>
-    I’m a third-year Ph.D. student at the School of Electrical Engineering and Computer Science, the University of Queensland, mentored by <a href="https://baigd.github.io/">A/Prof. Guangdong Bai</a>. 
+    I’m a Postdoc Fellow at the School of Computer Science, City University of Hong Kong, mentored by <a href="https://baigd.github.io/">A/Prof. Guangdong Bai</a>. 
   </p>
   <p>
     My research focuses on detecting issues in the system and third-party application ecosystem based on  documentation. My works have been published in leading conferences and journals, including WWW, FSE, ICSE, ASE, PETs etc.
